@@ -1,0 +1,6 @@
+com\bdqn\pojo\Department.class
+com\bdqn\service\impl\EmployeeServiceImpl.class
+com\bdqn\mapper\EmployeeMapper.class
+com\bdqn\controller\EmployeeController.class
+com\bdqn\pojo\Employee.class
+com\bdqn\service\EmployeeService.class
