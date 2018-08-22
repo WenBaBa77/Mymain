@@ -17,7 +17,7 @@
 
         <association property="department" javaType="com.bdqn.pojo.Department">
             <id column="id" property="id"/>
-            <result column="depname" property="depname"/>
+            <result column="D_DEPNAME" property="depname"/>
         </association>
 
     </resultMap>
